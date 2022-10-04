@@ -1,0 +1,6 @@
+framework module Pods_LYLoading_Tests {
+  umbrella header "Pods-LYLoading_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

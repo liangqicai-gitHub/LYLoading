@@ -1,0 +1,23 @@
+PODS:
+  - LYLoading (0.1.0):
+    - SnapKit (= 5.6.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - LYLoading (from `../`)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  LYLoading:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYLoading: d82dbdfee726394b8020b60d2d05afd033544fc3
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: b5a63f4504d374c094095e71fbbecca98ad6bcf5
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module LYLoading {
+  umbrella header "LYLoading-umbrella.h"
+
+  export *
+  module * { export * }
+}
